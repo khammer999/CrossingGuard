@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\bin\Debug\BridgeProjectCrossingGuardApp.exe.config
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\bin\Debug\BridgeProjectCrossingGuardApp.exe
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\bin\Debug\BridgeProjectCrossingGuardApp.pdb
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\obj\Debug\BridgeProjectCrossingGuardApp.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\obj\Debug\BridgeProjectCrossingGuardApp.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\obj\Debug\BridgeProjectCrossingGuardApp.exe
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectCrossingGuardApp\BridgeProjectCrossingGuardApp\obj\Debug\BridgeProjectCrossingGuardApp.pdb
